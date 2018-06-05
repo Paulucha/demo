@@ -1,1 +1,5 @@
 czesc
+
+Bla bla bla 
+
+
